@@ -11,7 +11,7 @@ image:
   tag: ""
 
 imagePullSecrets: []
-nameOverride: "dev"
+nameOverride: "dev-omg"
 fullnameOverride: ""
 
 serviceAccount:
